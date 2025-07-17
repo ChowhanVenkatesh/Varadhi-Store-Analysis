@@ -66,7 +66,7 @@ This project is useful for:
 
 ## 📌 Author
 
-**Pathlavath Venkatesh**  
+**Chowhan Venkatesh**  
 Aspiring Data Analyst | Excel Enthusiast | YouTuber  
 🔗 [LinkedIn] | 📺 Daily Stuff with Chowhan (YouTube)
 

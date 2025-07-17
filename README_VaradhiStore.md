@@ -67,9 +67,4 @@ This project is useful for:
 ## 📌 Author
 
 **Chowhan Venkatesh**  
-Aspiring Data Analyst | Excel Enthusiast   
-<a href="https://chowhantech.ccbp.tech/"> Portfolio </a>
-
----
-
-> 💡 *Tip: This README also serves as your quick recap sheet before interviews.*
+Aspiring Data Analyst | Excel Enthusiast  | <a href="https://chowhantech.ccbp.tech/"> Portfolio </a> | <a href="https://www.linkedin.com/in/pathlavathvenkatesh-/"> Linkedin </a>

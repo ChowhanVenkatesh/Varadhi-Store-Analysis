@@ -68,7 +68,7 @@ This project is useful for:
 
 **Chowhan Venkatesh**  
 Aspiring Data Analyst | Excel Enthusiast   
-<a href="https://chowhantech.ccbp.tech/">
+<a href="https://chowhantech.ccbp.tech/"> Portfolio </a>
 
 ---
 
